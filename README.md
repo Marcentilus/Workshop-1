@@ -1,4 +1,4 @@
-#Workshop 1
+####Workshop 1
 Pierwszy samodzielny projekt w ramach kursu Java Developer w CodersLab
 
 ##Opis aplikacji
